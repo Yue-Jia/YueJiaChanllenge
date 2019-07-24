@@ -1,0 +1,10 @@
+C:\Users\Yue\source\repos\YueJiaChallenge\YueJiaChallenge\bin\Debug\YueJiaChallenge.exe.config
+C:\Users\Yue\source\repos\YueJiaChallenge\YueJiaChallenge\bin\Debug\YueJiaChallenge.exe
+C:\Users\Yue\source\repos\YueJiaChallenge\YueJiaChallenge\bin\Debug\YueJiaChallenge.pdb
+C:\Users\Yue\source\repos\YueJiaChallenge\YueJiaChallenge\obj\Debug\YueJiaChallenge.csprojAssemblyReference.cache
+C:\Users\Yue\source\repos\YueJiaChallenge\YueJiaChallenge\obj\Debug\YueJiaChallenge.Form1.resources
+C:\Users\Yue\source\repos\YueJiaChallenge\YueJiaChallenge\obj\Debug\YueJiaChallenge.Properties.Resources.resources
+C:\Users\Yue\source\repos\YueJiaChallenge\YueJiaChallenge\obj\Debug\YueJiaChallenge.csproj.GenerateResource.cache
+C:\Users\Yue\source\repos\YueJiaChallenge\YueJiaChallenge\obj\Debug\YueJiaChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Yue\source\repos\YueJiaChallenge\YueJiaChallenge\obj\Debug\YueJiaChallenge.exe
+C:\Users\Yue\source\repos\YueJiaChallenge\YueJiaChallenge\obj\Debug\YueJiaChallenge.pdb
